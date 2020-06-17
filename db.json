@@ -1,10 +1,7 @@
 {
-     "solution":
-[
-     {
-     "id": "1",
-     "category": "it support",
-     "content": "Ihr Computer muss neu gestartet werden."
-     }
- ],
+  "solutions": [
+    { "id": 1, "content": "Post 1", "category": "it support" },
+    { "id": 2, "content": "Post 2", "category": "it support" },
+    { "id": 3, "content": "Post 3", "category": "it support" }
+  ],
 }
