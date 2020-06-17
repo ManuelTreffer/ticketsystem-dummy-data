@@ -1,31 +1,31 @@
 [
 {
- "id": 1
+ "id": 1,
  "category": "it support",
   "content": "Ihr Computer muss neu gestartet werden."
 }
 {
- "id": 2
+ "id": 2,
  "category": "sap",
   "content": "Geben Sie Ihren Entwicklerschlüssel ein."
 }
 {
- "id": 3
+ "id": 3,
  "category": "it support",
   "content": "Machen Sie eine Mittagspause"
 }
 {
- "id": 4
+ "id": 4,
  "category": "sap",
   "content": "Aktualisieren Sie Ihre Berechtigung"
 }
 {
- "id": 5
+ "id": 5,
  "category": "it support",
   "content": "Sagen Sie drei mal Hi Fabi und laufen schreiend im Kreis."
 }
 {
- "id": 6
+ "id": 6,
  "category": "sap",
   "content": "SAP ist toll."
 }
